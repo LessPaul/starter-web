@@ -8,7 +8,11 @@ Detailed intro
 
 ## Purpose
 
+End up in staging
+
 ## How To Contribute
+
+Working copy
 
 ## Deployment
 
